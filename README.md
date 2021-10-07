@@ -2,6 +2,15 @@
 
 This is the home page for the Scientific programming course.
 
+Live lectures will be held on Teams in the MPhil channel, and recorded.
+
+
+## Part 1 material
+
+Introduction to R: https://github.com/lgatto/spr/tree/master/2020
+
+Lectures recorded from last year will be available on panopto.
+
 ## Timetable
 
 ###  Live Lecture 1 (linux)
@@ -12,6 +21,8 @@ https://github.com/sje30/damtp-unix-intro
 
 ###  Live Lecture 2 (R)
 <2021-10-13 Wed 09:00-10:00>
+
+Basics of R.
 
 ###  Live Lecture 3 (R)
 <2021-10-15 Fri 09:00-10:00>
