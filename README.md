@@ -5,14 +5,18 @@ also the [moodle
 page](https://www.vle.cam.ac.uk/course/view.php?id=228882) but I will
 tend to update this page more often.
 
-Live lectures will be held on Teams in the MPhil channel, and recorded.
+Live lectures will be held on Teams in the MPhil channel, and
+recorded.  Recordings are available on [Panopto](https://cambridgelectures.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=3c6afa11-8d52-45f2-9b38-adb00100a1a0).
 
 
 ## Part 1 material
 
 Introduction to R: https://github.com/lgatto/spr/tree/master/2020
 
-Lectures recorded from last year will be available on panopto.
+## Part 2 material 
+
+to follow
+
 
 ## Timetable
 
@@ -47,5 +51,10 @@ Basics of R.
 
 ###  Live Lecture 9 (R)
 <2021-11-05 Fri 09:00-10:00>
+
+
+## Assignments
+
+Three to follow.  Assignments to be submitted to moodle.
 
 
