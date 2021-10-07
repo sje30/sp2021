@@ -7,6 +7,9 @@ This is the home page for the Scientific programming course.
 ###  Live Lecture 1 (linux)
 <2021-10-08 Fri 09:00-10:00>
 
+Introduction to linux as a prelude to R.
+https://github.com/sje30/damtp-unix-intro
+
 ###  Live Lecture 2 (R)
 <2021-10-13 Wed 09:00-10:00>
 
