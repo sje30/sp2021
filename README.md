@@ -36,7 +36,21 @@ https://github.com/sje30/damtp-unix-intro
 ###  Live Lecture 2 (R)
 <2021-10-13 Wed 09:00-10:00>
 
-Basics of R.
+Basics of R.  Course material; how to work through it.
+
+extra Books to consider: 
+[Dynamic models in Biology](https://github.com/ellner/DMB-supplements)
+
+[A First Course in Statistical Programming with R](https://www.cambridge.org/highereducation/books/a-first-course-in-statistical-programming-with-r/0CEDD40A37D273025535A03F1156A2CF#overview)
+now in 3rd edition.
+
+[Modern statistics for modern biology](https://www.huber.embl.de/msmb/).
+
+
+
+Assignment discussion.  Determine deadline on Friday.
+
+
 
 ###  Live Lecture 3 (R)
 <2021-10-15 Fri 09:00-10:00>
@@ -64,4 +78,6 @@ Basics of R.
 
 Three to follow.  Assignments to be submitted to moodle.
 
+
+[spa1-2021.pdf](Assignment 1).
 
