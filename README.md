@@ -79,5 +79,5 @@ Assignment discussion.  Determine deadline on Friday.
 Three to follow.  Assignments to be submitted to moodle.
 
 
-[spa1-2021.pdf](Assignment 1).
+[Assignment 1](assigns/spa1-2021.pdf)
 
