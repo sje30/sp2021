@@ -38,8 +38,9 @@ https://github.com/sje30/damtp-unix-intro
 
 Basics of R.  Course material; how to work through it.
 
-extra Books to consider: 
+Extra books to consider: 
 [Dynamic models in Biology](https://github.com/ellner/DMB-supplements)
+-- good for the handout with exercises.
 
 [A First Course in Statistical Programming with R](https://www.cambridge.org/highereducation/books/a-first-course-in-statistical-programming-with-r/0CEDD40A37D273025535A03F1156A2CF#overview)
 now in 3rd edition.
@@ -53,17 +54,18 @@ Assignment discussion.  Determine deadline on Friday.
 
 We covered: grading, assingment 1, books, https://github.com/sje30/neuRo
 
-
-
 ###  Live Lecture 3 (R)
 <2021-10-15 Fri 09:00-10:00>
 
 Aims:
 
-- review deadline for A1 (default 27th October).
 - Role of examples classes (introduce Max if available)
+- review deadline for A1 (default 27th October).
+- finish permutation testing from neuRo.
+- [introduction to latex](https://github.com/sje30/latex101) live demo
+  of running it from command line and with overleaf
+- Q&A (perhaps unrecorded if that helps with discussions).
 
-check permutation testing from neuRo.
 
 
 
@@ -72,22 +74,46 @@ check permutation testing from neuRo.
 
 Aims:
 
-- Last chance for questions on assignment 1.
+- Main opportunity for questions on assignment 1.
+- Review of lecture material from part I up to page 116 (end of
+  section on objects).
 
 ###  Live Lecture 5 (R)
 <2021-10-22 Fri 09:00-10:00>
 
+(New Part 2 topic.) Using github for your work.  Please get a github
+account beforehand; get a student account
+https://education.github.com/pack to ensure you get the 'Pro' features
+like private repositories.  
+
+To cover: markdown, version control, '.'.
+
 ###  Live Lecture 6 (R)
 <2021-10-27 Wed 09:00-10:00>
+
+Aims:
+- Review of lecture material from part I up to end of document.
+
+Part 2: introduction to optimisation -- simulated annealing.
+Assignment 2 to be handed out.
 
 ###  Live Lecture 7 (R)
 <2021-10-29 Fri 09:00-10:00>
 
+
 ###  Live Lecture 8 (R)
 <2021-11-03 Wed 09:00-10:00>
 
+Part 2: Numerical integration.
+
 ###  Live Lecture 9 (R)
 <2021-11-05 Fri 09:00-10:00>
+
+Conclusions; next steps.  Tidyverse.  
+
+- GGPLOT Third edition in prep: https://ggplot2-book.org/
+- R for Data Science https://r4ds.had.co.nz/
+- Markdown, Bookdown https://bookdown.org/
 
 
 ## Assignments
