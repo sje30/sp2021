@@ -48,15 +48,31 @@ now in 3rd edition.
 
 
 
+
 Assignment discussion.  Determine deadline on Friday.
+
+We covered: grading, assingment 1, books, https://github.com/sje30/neuRo
 
 
 
 ###  Live Lecture 3 (R)
 <2021-10-15 Fri 09:00-10:00>
 
+Aims:
+
+- review deadline for A1 (default 27th October).
+- Role of examples classes (introduce Max if available)
+
+check permutation testing from neuRo.
+
+
+
 ###  Live Lecture 4 (R)
 <2021-10-20 Wed 09:00-10:00>
+
+Aims:
+
+- Last chance for questions on assignment 1.
 
 ###  Live Lecture 5 (R)
 <2021-10-22 Fri 09:00-10:00>
@@ -80,4 +96,12 @@ Three to follow.  Assignments to be submitted to moodle.
 
 
 [Assignment 1](assigns/spa1-2021.pdf)
+
+
+## Examples classes
+
+Examples classes to be led by Max Niroomand, 19 Oct, 26 Oct, 2 Nov.
+The format of these is quite open ended currently, but please bring
+your laptop if you have any issues with running R on your machine.
+
 
