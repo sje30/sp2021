@@ -88,6 +88,8 @@ like private repositories.
 
 To cover: version control, markdown, issues, '.', binder.
 
+See: [github](github) folder.
+
 ###  Live Lecture 6 (R)
 <2021-10-27 Wed 09:00-10:00>
 
