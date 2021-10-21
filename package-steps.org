@@ -2,6 +2,8 @@
 
 We will use devtools for this.
 
+There is an excellent cheat sheet.
+
 
 require(devtools)
 create('~/darts')
