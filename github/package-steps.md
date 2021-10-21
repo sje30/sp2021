@@ -1,3 +1,10 @@
+# Learning Git
+
+First we need a crash course in git/version control.
+
+
+https://swcarpentry.github.io/git-novice/
+
 # Making a package cribsheet
 
 We will use devtools for this.
