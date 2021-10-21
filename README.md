@@ -63,7 +63,7 @@ Aims:
 - review deadline for A1 (default 27th October).
 - finish permutation testing from neuRo.
 - [introduction to latex](https://github.com/sje30/latex101) live demo
-  of running it from command line and with overleaf
+  of running it from command line and with [overleaf](https://overleaf.com)
 - Q&A (perhaps unrecorded if that helps with discussions).
 
 
@@ -84,9 +84,9 @@ Aims:
 (New Part 2 topic.) Using github for your work.  Please get a github
 account beforehand; get a student account
 https://education.github.com/pack to ensure you get the 'Pro' features
-like private repositories.  
+like private repositories.
 
-To cover: markdown, version control, '.'.
+To cover: version control, markdown, issues, '.', binder.
 
 ###  Live Lecture 6 (R)
 <2021-10-27 Wed 09:00-10:00>
@@ -95,26 +95,28 @@ Aims:
 - Review of lecture material from part I up to end of document.
 
 Part 2: introduction to optimisation -- simulated annealing.
-Assignment 2 to be handed out.
+Assignment 2 to be handed out, with suggested two-week deadline.
 
 ###  Live Lecture 7 (R)
 <2021-10-29 Fri 09:00-10:00>
 
+Part 2: Numerical integration.
 
 ###  Live Lecture 8 (R)
 <2021-11-03 Wed 09:00-10:00>
 
-Part 2: Numerical integration.
+Feedback session on assignment 1.  Questions on assignment 2.
 
 ###  Live Lecture 9 (R)
 <2021-11-05 Fri 09:00-10:00>
 
-Conclusions; next steps.  Tidyverse.  
+Conclusions; next steps.
 
 - GGPLOT Third edition in prep: https://ggplot2-book.org/
 - R for Data Science https://r4ds.had.co.nz/
 - Markdown, Bookdown https://bookdown.org/
 
+Assignment 3 to be handed out.
 
 ## Assignments
 
