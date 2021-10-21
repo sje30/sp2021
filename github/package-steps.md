@@ -14,6 +14,9 @@ https://github.com/rstudio/cheatsheets/raw/master/package-development.pdf
 
 Check out the others at: https://www.rstudio.com/resources/cheatsheets/
 
+The aim will be to create a package like
+https://github.com/sje30/darts
+
 
     require(devtools)
     create('~/darts')
