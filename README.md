@@ -90,6 +90,7 @@ To cover: version control, markdown, issues, '.', binder.
 
 See: [github](github) folder.
 
+	
 ###  Live Lecture 6 (R)
 <2021-10-27 Wed 09:00-10:00>
 
@@ -103,6 +104,7 @@ Assignment 2 to be handed out, with suggested two-week deadline.
 <2021-10-29 Fri 09:00-10:00>
 
 Part 2: Numerical integration.
+Assignment 2 to be handed out.
 
 ###  Live Lecture 8 (R)
 <2021-11-03 Wed 09:00-10:00>
