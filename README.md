@@ -88,7 +88,12 @@ like private repositories.
 
 To cover: version control, markdown, issues, '.', binder.
 
-See: [github](github) folder.
+See: [github](github) folder for materials, and for the final
+repository, see https://github.com/sje30/darts
+
+Recommendation from class for 'github desktop' client
+https://desktop.github.com/ to ease use of working with github.
+
 
 	
 ###  Live Lecture 6 (R)
