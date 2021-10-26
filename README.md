@@ -99,13 +99,9 @@ https://desktop.github.com/ to ease use of working with github.
 
 Aims:
 - Review of lecture material from part I up to end of document.
-
-Part 2: introduction to optimisation -- simulated annealing.
-
-[Kirkpatrick et al 1983](https://paperpile.com/app/p/c885cc7d-488e-0352-82ad-0de4045427c9).
-
-Assignment 2 to be handed out, with suggested two-week deadline.
-Reproducible research (part 2 lectures: RR 0, RR 1 (Make), RR 2 (knitr).
+- Assignment 2 to be handed out, with suggested two-week deadline.
+- Reproducible research (part 2 lectures: RR 0, RR 1 (Make), RR 2 (knitr).
+- Introduction to optimisation -- simulated annealing. [Kirkpatrick et al 1983](https://paperpile.com/app/p/c885cc7d-488e-0352-82ad-0de4045427c9).
 
 ###  Live Lecture 7 (R)
 <2021-10-29 Fri 09:00-10:00>
