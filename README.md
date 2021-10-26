@@ -93,8 +93,6 @@ repository, see https://github.com/sje30/darts
 
 Recommendation from class for 'github desktop' client
 https://desktop.github.com/ to ease use of working with github.
-
-
 	
 ###  Live Lecture 6 (R)
 <2021-10-27 Wed 09:00-10:00>
@@ -103,12 +101,16 @@ Aims:
 - Review of lecture material from part I up to end of document.
 
 Part 2: introduction to optimisation -- simulated annealing.
+
+[Kirkpatrick et al 1983](https://paperpile.com/app/p/c885cc7d-488e-0352-82ad-0de4045427c9).
+
 Assignment 2 to be handed out, with suggested two-week deadline.
+Reproducible research (part 2 lectures: RR 0, RR 1 (Make), RR 2 (knitr).
 
 ###  Live Lecture 7 (R)
 <2021-10-29 Fri 09:00-10:00>
 
-Part 2: Numerical integration.
+Part 2: Numerical integration. [de.pdf](de.pdf)
 
 ###  Live Lecture 8 (R)
 <2021-11-03 Wed 09:00-10:00>
