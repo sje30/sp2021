@@ -131,6 +131,8 @@ Three to follow.  Assignments to be submitted to moodle.
 
 [Assignment 1](assigns/spa1-2021.pdf)
 
+[Assignment 2](assigns/spa2-2021.pdf)
+
 
 ## Examples classes
 
