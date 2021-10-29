@@ -22,7 +22,7 @@ Introduction to R: https://github.com/lgatto/spr/tree/master/2020
 
 ## Part 2 material 
 
-- [LaTeX 101](https://github.com/sje30/latex101)
+- [LaTeX 101](https://github.com/sje30/latex101/blob/master/latex101.pdf)
 - [Reproducible research](https://github.com/lgatto/spr/blob/master/rr/rr3.pdf)
 - [Numerical integration](de.pdf)
 
