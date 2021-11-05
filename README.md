@@ -138,6 +138,11 @@ Three to follow.  Assignments to be submitted to moodle.
 
 [Assignment 3](assigns/spa3-2021.pdf)
 
+To help with assignment 2, here is a way to include your R code
+functions in an appendix, rather than in the main body of the report.
+It relies on giving your code chunks names.  See [test.Rnw](test.Rnw)
+and [test.pdf](test.pdf).
+
 
 ## Examples classes
 

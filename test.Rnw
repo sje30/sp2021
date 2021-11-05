@@ -1,0 +1,42 @@
+\documentclass[12pt]{article}
+\usepackage{mathpazo}
+
+\begin{document}
+
+\title{Test document}
+\author{Stephen J Eglen}
+
+\date{\today}
+\maketitle
+
+
+\section{Introduction}
+
+This document can be compiled using:
+<<eval=FALSE>>=
+knitr::knit2pdf('test.Rnw')
+@ 
+\section{Question 1}
+
+
+<<function-definitions,eval=TRUE,include=FALSE>>=
+f <- function(x, y) {
+  x + y
+}
+@
+
+<<>>=
+f(2,3)
+@
+
+
+\appendix
+
+
+\section{Code for question 1}
+This is the appendix
+
+<<function-definitions,eval=FALSE,include=TRUE>>=
+@
+
+\end{document}
